@@ -1,0 +1,10 @@
+[
+    {
+        "Expression": "sqrt 25 - -5 + 12 / 4 -2 * 1",
+        "Result": "10.0"
+    },
+    {
+        "Expression": "sqrt 25 - -10",
+        "Result": "15.0"
+    }
+]

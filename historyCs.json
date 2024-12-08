@@ -1,0 +1,38 @@
+[
+  {
+    "Expression": "sqrt 25 - -5 + 12 / 4 -2 * 1",
+    "Result": "10"
+  },
+  {
+    "Expression": "sqrt 9 / 3 + 12",
+    "Result": "13"
+  },
+  {
+    "Expression": "31 + 31",
+    "Result": "62"
+  },
+  {
+    "Expression": "3 + 8",
+    "Result": "11"
+  },
+  {
+    "Expression": "3 / 2 + 5",
+    "Result": "6,5"
+  },
+  {
+    "Expression": "sqrt 16",
+    "Result": "4"
+  },
+  {
+    "Expression": "sqrt 25 + 10 / 2",
+    "Result": "10"
+  },
+  {
+    "Expression": "sqrt 25 + 5 + 12 + 8 - -2",
+    "Result": "32"
+  },
+  {
+    "Expression": "sqrt 27",
+    "Result": "5,196152422706632"
+  }
+]
